@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ASCII"?>
+<Vitals>
+<Vendor>General Electric Healthcare</Vendor>
+<Model>Pro/Procare</Model>
+	<Result name="Mean_arterial_pressure">
+		<Value>86</Value>
+		<Units name="mmHg"></Units>
+		<Time_stamp year="2008" month="11" day="18" hour="12" minute="33" second="14"></Time_stamp>
+	</Result>
+	<Result name="Systolic_blood_pressure">
+		<Value>130</Value>
+		<Units name="mmHg"></Units>
+		<Time_stamp year="2008" month="11" day="18" hour="12" minute="33" second="14"></Time_stamp>
+	</Result>
+	<Result name="Diastolic_blood_pressure">
+		<Value>67</Value>
+		<Units name="mmHg"></Units>
+		<Time_stamp year="2008" month="11" day="18" hour="12" minute="33" second="14"></Time_stamp>
+	</Result>
+	<Result name="Pulse">
+		<Value>73</Value>
+		<Units name="BPM"></Units>
+		<Method>blood_pressure</Method>
+		<Time_stamp year="2008" month="11" day="18" hour="12" minute="33" second="14"></Time_stamp>
+  </Result>
+</Vitals>
+

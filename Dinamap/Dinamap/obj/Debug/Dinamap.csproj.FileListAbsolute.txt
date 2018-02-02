@@ -1,0 +1,10 @@
+C:\Users\MON\documents\visual studio 2013\Projects\Dinamap\Dinamap\obj\Debug\Dinamap.Properties.Resources.resources
+C:\Users\MON\documents\visual studio 2013\Projects\Dinamap\Dinamap\obj\Debug\Dinamap.csproj.GenerateResource.Cache
+C:\Users\MON\documents\visual studio 2013\Projects\Dinamap\Dinamap\bin\Debug\Dinamap.exe.config
+C:\Users\MON\documents\visual studio 2013\Projects\Dinamap\Dinamap\bin\Debug\DinaWin.dll
+C:\Users\MON\documents\visual studio 2013\Projects\Dinamap\Dinamap\bin\Debug\Dinamap.exe
+C:\Users\MON\documents\visual studio 2013\Projects\Dinamap\Dinamap\bin\Debug\Dinamap.pdb
+C:\Users\MON\documents\visual studio 2013\Projects\Dinamap\Dinamap\obj\Debug\Dinamap.Form1.resources
+C:\Users\MON\documents\visual studio 2013\Projects\Dinamap\Dinamap\obj\Debug\Dinamap.exe
+C:\Users\MON\documents\visual studio 2013\Projects\Dinamap\Dinamap\obj\Debug\Dinamap.pdb
+C:\Users\MON\documents\visual studio 2013\Projects\Dinamap\Dinamap\obj\Debug\Dinamap.csprojResolveAssemblyReference.cache

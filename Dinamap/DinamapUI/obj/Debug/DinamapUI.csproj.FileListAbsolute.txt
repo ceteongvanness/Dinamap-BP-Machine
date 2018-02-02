@@ -1,0 +1,15 @@
+C:\Users\MON\documents\visual studio 2013\Projects\Dinamap\DinamapUI\bin\Debug\DinamapUI.exe.config
+C:\Users\MON\documents\visual studio 2013\Projects\Dinamap\DinamapUI\bin\Debug\DinamapUI.exe
+C:\Users\MON\documents\visual studio 2013\Projects\Dinamap\DinamapUI\bin\Debug\DinamapUI.pdb
+C:\Users\MON\documents\visual studio 2013\Projects\Dinamap\DinamapUI\obj\Debug\DinamapUI.csprojResolveAssemblyReference.cache
+C:\Users\MON\documents\visual studio 2013\Projects\Dinamap\DinamapUI\obj\Debug\MainWindow.baml
+C:\Users\MON\documents\visual studio 2013\Projects\Dinamap\DinamapUI\obj\Debug\MainWindow.g.cs
+C:\Users\MON\documents\visual studio 2013\Projects\Dinamap\DinamapUI\obj\Debug\App.g.cs
+C:\Users\MON\documents\visual studio 2013\Projects\Dinamap\DinamapUI\obj\Debug\DinamapUI_MarkupCompile.cache
+C:\Users\MON\documents\visual studio 2013\Projects\Dinamap\DinamapUI\obj\Debug\DinamapUI.g.resources
+C:\Users\MON\documents\visual studio 2013\Projects\Dinamap\DinamapUI\obj\Debug\DinamapUI.Properties.Resources.resources
+C:\Users\MON\documents\visual studio 2013\Projects\Dinamap\DinamapUI\obj\Debug\DinamapUI.csproj.GenerateResource.Cache
+C:\Users\MON\documents\visual studio 2013\Projects\Dinamap\DinamapUI\obj\Debug\DinamapUI.exe
+C:\Users\MON\documents\visual studio 2013\Projects\Dinamap\DinamapUI\obj\Debug\DinamapUI.pdb
+C:\Users\MON\documents\visual studio 2013\Projects\Dinamap\DinamapUI\bin\Debug\Resources\dinamap.xml
+C:\Users\MON\documents\visual studio 2013\Projects\Dinamap\DinamapUI\obj\Debug\DinamapUI_Content.g.cs

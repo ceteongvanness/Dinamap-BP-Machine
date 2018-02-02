@@ -1,0 +1,19 @@
+﻿<Window x:Class="DinamapUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Dinamap" Height="350" Width="525">
+    <Grid>
+       
+        <Grid.Resources>
+            <XmlDataProvider x:Key="Data" Source="C:\dinamap.xml" />
+        </Grid.Resources>
+       
+        <DataGrid x:Name="gridDinamap" DataContext="{StaticResource Data}" ItemsSource="{Binding XPath=/Vitals/Result}" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Name" Binding="{Binding XPath=@name}"/>
+                <DataGridTextColumn  Header="Value" Binding="{Binding XPath=Value}"/>
+                <DataGridTextColumn Header="Units" Binding="{Binding XPath=Units/@name}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>
